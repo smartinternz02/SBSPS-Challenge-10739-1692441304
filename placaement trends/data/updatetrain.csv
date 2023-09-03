@@ -1,0 +1,216 @@
+sl_no,gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,workex,etest_p,specialisation,mba_p,Communication_level,technical _skills,soft _skills,status
+1,0,67,Others,91,Others,Commerce,58,Sci&Tech,No,55,Mkt&HR,58.8,basic,Computer Skills,leadership,Placed
+2,0,79.33,Central,78.33,Others,Science,77.48,Sci&Tech,Yes,86.5,Mkt&Fin,66.28,intermediate,     Computer Skills,leadership,Placed
+3,0,65,Central,68,Central,Arts,64,Comm&Mgmt,No,75,Mkt&Fin,57.8,advance,     Computer Skills,leadership,Placed
+4,0,56,Central,52,Central,Science,52,Sci&Tech,No,66,Mkt&HR,59.43,basic,     Computer Skills,leadership,Not Placed
+5,0,85.8,Central,73.6,Central,Commerce,73.3,Comm&Mgmt,No,96.8,Mkt&Fin,55.5,intermediate,     Computer Skills,leadership,Placed
+6,0,55,Others,49.8,Others,Science,67.25,Sci&Tech,Yes,55,Mkt&Fin,51.58,advance,     Computer Skills,leadership,Not Placed
+7,1,46,Others,49.2,Others,Commerce,79,Comm&Mgmt,No,74.28,Mkt&Fin,53.29,basic,     Computer Skills,leadership,Not Placed
+8,0,82,Central,64,Central,Science,66,Sci&Tech,Yes,67,Mkt&Fin,62.14,intermediate,     Computer Skills,leadership,Placed
+9,0,73,Central,79,Central,Commerce,72,Comm&Mgmt,No,91.34,Mkt&Fin,61.29,advance,     Computer Skills,leadership,Placed
+10,0,58,Central,70,Central,Commerce,61,Comm&Mgmt,No,54,Mkt&Fin,52.21,basic,     Computer Skills,leadership,Not Placed
+11,0,58,Central,61,Central,Commerce,60,Comm&Mgmt,Yes,62,Mkt&HR,60.85,intermediate,     Computer Skills,leadership,Placed
+12,0,69.6,Central,68.4,Central,Commerce,78.3,Comm&Mgmt,Yes,60,Mkt&Fin,63.7,advance,Programming Skills,leadership,Placed
+13,1,47,Central,55,Others,Science,65,Comm&Mgmt,No,62,Mkt&HR,65.04,basic,Programming Skills,leadership,Not Placed
+14,1,77,Central,87,Central,Commerce,59,Comm&Mgmt,No,68,Mkt&Fin,68.63,intermediate,Programming Skills,leadership,Placed
+15,0,62,Central,47,Central,Commerce,50,Comm&Mgmt,No,76,Mkt&HR,54.96,advance,Programming Skills, teamwork,Not Placed
+16,1,65,Central,75,Central,Commerce,69,Comm&Mgmt,Yes,72,Mkt&Fin,64.66,basic,Programming Skills, teamwork,Placed
+17,0,63,Central,66.2,Central,Commerce,65.6,Comm&Mgmt,Yes,60,Mkt&Fin,62.54,intermediate,Programming Skills, teamwork,Placed
+18,1,55,Central,67,Central,Commerce,64,Comm&Mgmt,No,60,Mkt&Fin,67.28,advance,Programming Skills, teamwork,Not Placed
+19,1,63,Central,66,Central,Commerce,64,Comm&Mgmt,No,68,Mkt&HR,64.08,basic,Programming Skills, teamwork,Not Placed
+20,0,60,Others,67,Others,Arts,70,Comm&Mgmt,Yes,50.48,Mkt&Fin,77.89,intermediate,Programming Skills, teamwork,Placed
+21,0,62,Others,65,Others,Commerce,66,Comm&Mgmt,No,50,Mkt&HR,56.7,advance,Programming Skills, teamwork,Placed
+22,1,79,Others,76,Others,Commerce,85,Comm&Mgmt,No,95,Mkt&Fin,69.06,basic,     Computer Skills, teamwork,Placed
+23,1,69.8,Others,60.8,Others,Science,72.23,Sci&Tech,No,55.53,Mkt&HR,68.81,intermediate,     Computer Skills, teamwork,Placed
+24,1,77.4,Others,60,Others,Science,64.74,Sci&Tech,Yes,92,Mkt&Fin,63.62,advance,     Computer Skills, teamwork,Placed
+25,0,76.5,Others,97.7,Others,Science,78.86,Sci&Tech,No,97.4,Mkt&Fin,74.01,basic,     Computer Skills, teamwork,Placed
+26,1,52.58,Others,54.6,Central,Commerce,50.2,Comm&Mgmt,Yes,76,Mkt&Fin,65.33,intermediate,     Computer Skills, teamwork,Not Placed
+27,0,71,Others,79,Others,Commerce,66,Comm&Mgmt,Yes,94,Mkt&Fin,57.55,advance,     Computer Skills, teamwork,Placed
+28,0,63,Others,67,Others,Commerce,66,Comm&Mgmt,No,68,Mkt&HR,57.69,basic,     Computer Skills, teamwork,Placed
+29,0,76.76,Others,76.5,Others,Commerce,67.5,Comm&Mgmt,Yes,73.35,Mkt&Fin,64.15,intermediate,     Computer Skills, teamwork,Placed
+30,0,62,Central,67,Central,Commerce,58,Comm&Mgmt,No,77,Mkt&Fin,51.29,advance,     Computer Skills, teamwork,Not Placed
+31,1,64,Central,73.5,Central,Commerce,73,Comm&Mgmt,No,52,Mkt&HR,56.7,basic,     Computer Skills, teamwork,Placed
+32,1,67,Central,53,Central,Science,65,Sci&Tech,No,64,Mkt&HR,58.32,intermediate,     Computer Skills, teamwork,Not Placed
+33,1,61,Central,81,Central,Commerce,66.4,Comm&Mgmt,No,50.89,Mkt&HR,62.21,advance,     Troubleshooting, teamwork,Placed
+34,1,87,Others,65,Others,Science,81,Comm&Mgmt,Yes,88,Mkt&Fin,72.78,basic,     Troubleshooting, teamwork,Placed
+35,0,62,Others,51,Others,Science,52,Others,No,68.44,Mkt&HR,62.77,intermediate,     Troubleshooting, teamwork,Not Placed
+36,1,69,Central,78,Central,Commerce,72,Comm&Mgmt,No,71,Mkt&HR,62.74,advance,     Troubleshooting, teamwork,Placed
+37,0,51,Central,44,Central,Commerce,57,Comm&Mgmt,No,64,Mkt&Fin,51.45,basic,     Troubleshooting, teamwork,Not Placed
+38,1,79,Central,76,Central,Science,65.6,Sci&Tech,No,58,Mkt&HR,55.47,intermediate,     Design Thinking, teamwork,Placed
+39,1,73,Others,58,Others,Science,66,Comm&Mgmt,No,53.7,Mkt&HR,56.86,advance,     Design Thinking, teamwork,Placed
+40,0,81,Others,68,Others,Science,64,Sci&Tech,No,93,Mkt&Fin,62.56,basic,     Design Thinking, teamwork,Placed
+41,1,78,Central,77,Others,Commerce,80,Comm&Mgmt,No,60,Mkt&Fin,66.72,intermediate,     Design Thinking, teamwork,Placed
+42,1,74,Others,63.16,Others,Commerce,65,Comm&Mgmt,Yes,65,Mkt&HR,69.76,advance,     Design Thinking, teamwork,Not Placed
+43,0,49,Others,39,Central,Science,65,Others,No,63,Mkt&Fin,51.21,basic,     Design Thinking, teamwork,Not Placed
+44,0,87,Others,87,Others,Commerce,68,Comm&Mgmt,No,95,Mkt&HR,62.9,intermediate,     Graphical, teamwork,Placed
+45,1,77,Others,73,Others,Commerce,81,Comm&Mgmt,Yes,89,Mkt&Fin,69.7,advance,     Graphical, teamwork,Placed
+46,1,76,Central,64,Central,Science,72,Sci&Tech,No,58,Mkt&HR,66.53,basic,     Graphical, teamwork,Not Placed
+47,1,70.89,Others,71.98,Others,Science,65.6,Comm&Mgmt,No,68,Mkt&HR,71.63,intermediate,     Graphical, teamwork,Not Placed
+48,0,63,Central,60,Central,Commerce,57,Comm&Mgmt,Yes,78,Mkt&Fin,54.55,advance,     Graphical, teamwork,Placed
+49,0,63,Others,62,Others,Commerce,68,Comm&Mgmt,No,64,Mkt&Fin,62.46,basic,     Design Thinking, teamwork,Placed
+50,1,50,Others,37,Others,Arts,52,Others,No,65,Mkt&HR,56.11,intermediate,     Design Thinking, teamwork,Not Placed
+51,1,75.2,Central,73.2,Central,Science,68.4,Comm&Mgmt,No,65,Mkt&HR,62.98,advance,     Design Thinking, teamwork,Placed
+52,0,54.4,Central,61.12,Central,Commerce,56.2,Comm&Mgmt,No,67,Mkt&HR,62.65,basic,     Design Thinking, teamwork,Not Placed
+53,1,40.89,Others,45.83,Others,Commerce,53,Comm&Mgmt,No,71.2,Mkt&HR,65.49,intermediate,     Design Thinking, teamwork,Not Placed
+54,0,80,Others,70,Others,Science,72,Sci&Tech,No,87,Mkt&HR,71.04,advance,     Design Thinking, teamwork,Placed
+55,1,74,Central,60,Others,Science,69,Comm&Mgmt,No,78,Mkt&HR,65.56,basic,     Design Thinking, teamwork,Placed
+56,0,60.4,Central,66.6,Others,Science,65,Comm&Mgmt,No,71,Mkt&HR,52.71,intermediate,     Design Thinking, teamwork,Placed
+57,0,63,Others,71.4,Others,Commerce,61.4,Comm&Mgmt,No,68,Mkt&Fin,66.88,advance,     Design Thinking, teamwork,Placed
+58,0,68,Central,76,Central,Commerce,74,Comm&Mgmt,No,80,Mkt&Fin,63.59,basic,     Design Thinking, teamwork,Placed
+59,0,74,Central,62,Others,Science,68,Comm&Mgmt,No,74,Mkt&Fin,57.99,intermediate,     Design Thinking, teamwork,Placed
+60,0,52.6,Central,65.58,Others,Science,72.11,Sci&Tech,No,57.6,Mkt&Fin,56.66,advance,     Design Thinking, teamwork,Placed
+61,0,74,Central,70,Central,Science,72,Comm&Mgmt,Yes,60,Mkt&Fin,57.24,basic,     Design Thinking, teamwork,Placed
+62,0,84.2,Central,73.4,Central,Commerce,66.89,Comm&Mgmt,No,61.6,Mkt&Fin,62.48,intermediate,     Design Thinking, teamwork,Placed
+63,1,86.5,Others,64.2,Others,Science,67.4,Sci&Tech,No,59,Mkt&Fin,59.69,advance,     Design Thinking, teamwork,Placed
+64,0,61,Others,70,Others,Commerce,64,Comm&Mgmt,No,68.5,Mkt&HR,59.5,basic,     Design Thinking, teamwork,Not Placed
+65,0,80,Others,73,Others,Commerce,75,Comm&Mgmt,No,61,Mkt&Fin,58.78,intermediate,     Design Thinking, teamwork,Placed
+66,0,54,Others,47,Others,Science,57,Comm&Mgmt,No,89.69,Mkt&HR,57.1,advance,     Design Thinking, teamwork,Not Placed
+67,0,83,Others,74,Others,Science,66,Comm&Mgmt,No,68.92,Mkt&HR,58.46,basic,     Design Thinking, teamwork,Placed
+68,0,80.92,Others,78.5,Others,Commerce,67,Comm&Mgmt,No,68.71,Mkt&Fin,60.99,intermediate,     Design Thinking, teamwork,Placed
+69,1,69.7,Central,47,Central,Commerce,72.7,Sci&Tech,No,79,Mkt&HR,59.24,advance,     Design Thinking, teamwork,Not Placed
+70,0,73,Central,73,Central,Science,66,Sci&Tech,Yes,70,Mkt&Fin,68.07,basic,    others, teamwork,Placed
+71,0,82,Others,61,Others,Science,62,Sci&Tech,No,89,Mkt&Fin,65.45,intermediate,    others, teamwork,Placed
+72,0,75,Others,70.29,Others,Commerce,71,Comm&Mgmt,No,95,Mkt&Fin,66.94,advance,    others, teamwork,Placed
+73,0,84.86,Others,67,Others,Science,78,Comm&Mgmt,No,95.5,Mkt&Fin,68.53,basic,    others, teamwork,Placed
+74,0,64.6,Central,83.83,Others,Commerce,71.72,Comm&Mgmt,No,86,Mkt&Fin,59.75,intermediate,    others, teamwork,Placed
+75,0,56.6,Central,64.8,Central,Commerce,70.2,Comm&Mgmt,No,84.27,Mkt&Fin,67.2,advance,    others, teamwork,Placed
+76,1,59,Central,62,Others,Commerce,77.5,Comm&Mgmt,No,74,Mkt&HR,67,basic,    others, teamwork,Not Placed
+77,1,66.5,Others,70.4,Central,Arts,71.93,Comm&Mgmt,No,61,Mkt&Fin,64.27,intermediate,    others, teamwork,Placed
+78,0,64,Others,80,Others,Science,65,Sci&Tech,Yes,69,Mkt&Fin,57.65,advance,    others, teamwork,Placed
+79,0,84,Others,90.9,Others,Science,64.5,Sci&Tech,No,86.04,Mkt&Fin,59.42,basic,    others, teamwork,Placed
+80,1,69,Central,62,Central,Science,66,Sci&Tech,No,75,Mkt&HR,67.99,intermediate,     Design Thinking, teamwork,Not Placed
+81,1,69,Others,62,Others,Commerce,69,Comm&Mgmt,Yes,67,Mkt&HR,62.35,advance,     Design Thinking, teamwork,Placed
+82,0,81.7,Others,63,Others,Science,67,Comm&Mgmt,Yes,86,Mkt&Fin,70.2,basic,     Design Thinking,time management,Placed
+83,0,63,Central,67,Central,Commerce,74,Comm&Mgmt,No,82,Mkt&Fin,60.44,intermediate,     Design Thinking,time management,Not Placed
+84,0,84,Others,79,Others,Science,68,Sci&Tech,Yes,84,Mkt&Fin,66.69,advance,     Design Thinking,time management,Placed
+85,0,70,Central,63,Others,Science,70,Sci&Tech,Yes,55,Mkt&Fin,62,basic,     Design Thinking,time management,Placed
+86,1,83.84,Others,89.83,Others,Commerce,77.2,Comm&Mgmt,Yes,78.74,Mkt&Fin,76.18,intermediate,     Design Thinking,time management,Placed
+87,0,62,Others,63,Others,Commerce,64,Comm&Mgmt,No,67,Mkt&Fin,57.03,advance,     Programming Skills,time management,Placed
+88,0,59.6,Central,51,Central,Science,60,Others,No,75,Mkt&HR,59.08,basic,     Programming Skills,time management,Not Placed
+89,1,66,Central,62,Central,Commerce,73,Comm&Mgmt,No,58,Mkt&HR,64.36,intermediate,     Programming Skills,time management,Placed
+90,1,84,Others,75,Others,Science,69,Sci&Tech,Yes,62,Mkt&HR,62.36,advance,     Programming Skills,time management,Placed
+91,1,85,Others,90,Others,Commerce,82,Comm&Mgmt,No,92,Mkt&Fin,68.03,basic,     Programming Skills,time management,Placed
+92,0,52,Central,57,Central,Commerce,50.8,Comm&Mgmt,No,67,Mkt&HR,62.79,intermediate,     Programming Skills,time management,Not Placed
+93,1,60.23,Central,69,Central,Science,66,Comm&Mgmt,No,72,Mkt&Fin,59.47,advance,     Programming Skills,time management,Placed
+94,0,52,Central,62,Central,Commerce,54,Comm&Mgmt,No,72,Mkt&HR,55.41,basic,     Programming Skills,time management,Not Placed
+95,0,58,Central,62,Central,Commerce,64,Comm&Mgmt,No,53.88,Mkt&Fin,54.97,intermediate,     Programming Skills,time management,Placed
+96,0,73,Central,78,Others,Commerce,65,Comm&Mgmt,Yes,95.46,Mkt&Fin,62.16,advance,     Design Thinking,time management,Placed
+97,1,76,Central,70,Central,Science,76,Comm&Mgmt,Yes,66,Mkt&Fin,64.44,basic,     Design Thinking,time management,Placed
+98,1,70.5,Central,62.5,Others,Commerce,61,Comm&Mgmt,No,93.91,Mkt&Fin,69.03,intermediate,     Design Thinking,time management,Not Placed
+99,1,69,Central,73,Central,Commerce,65,Comm&Mgmt,No,70,Mkt&Fin,57.31,advance,     Design Thinking,time management,Placed
+100,0,54,Central,82,Others,Commerce,63,Sci&Tech,No,50,Mkt&Fin,59.47,basic,     Design Thinking,time management,Not Placed
+101,1,45,Others,57,Others,Commerce,58,Comm&Mgmt,Yes,56.39,Mkt&HR,64.95,intermediate,     Design Thinking,others,Not Placed
+102,0,63,Central,72,Central,Commerce,68,Comm&Mgmt,No,78,Mkt&HR,60.44,advance,     Graphical,others,Placed
+103,1,77,Others,61,Others,Commerce,68,Comm&Mgmt,Yes,57.5,Mkt&Fin,61.31,basic,     Graphical,others,Placed
+104,0,73,Central,78,Central,Science,73,Sci&Tech,Yes,85,Mkt&HR,65.83,intermediate,     Graphical,others,Placed
+105,0,69,Central,63,Others,Science,65,Comm&Mgmt,Yes,55,Mkt&HR,58.23,advance,     Graphical,others,Placed
+106,0,59,Central,64,Others,Science,58,Sci&Tech,No,85,Mkt&HR,55.3,basic,     Graphical,others,Not Placed
+107,0,61.08,Others,50,Others,Science,54,Sci&Tech,No,71,Mkt&Fin,65.69,intermediate,     Graphical,others,Not Placed
+108,0,82,Others,90,Others,Commerce,83,Comm&Mgmt,No,80,Mkt&HR,73.52,advance,     Graphical,others,Placed
+109,0,61,Central,82,Central,Commerce,69,Comm&Mgmt,No,84,Mkt&Fin,58.31,basic,     Graphical,others,Placed
+110,0,52,Central,63,Others,Science,65,Sci&Tech,Yes,86,Mkt&HR,56.09,intermediate,     Graphical,others,Not Placed
+111,1,69.5,Central,70,Central,Science,72,Sci&Tech,No,57.2,Mkt&HR,54.8,advance,     Design Thinking,others,Placed
+112,0,51,Others,54,Others,Science,61,Sci&Tech,No,60,Mkt&HR,60.64,basic,     Design Thinking,others,Not Placed
+113,0,58,Others,61,Others,Commerce,61,Comm&Mgmt,No,58,Mkt&HR,53.94,intermediate,     Design Thinking,others,Placed
+114,1,73.96,Others,79,Others,Commerce,67,Comm&Mgmt,No,72.15,Mkt&Fin,63.08,advance,     Design Thinking,others,Placed
+115,0,65,Central,68,Others,Science,69,Comm&Mgmt,No,53.7,Mkt&HR,55.01,basic,     Design Thinking,others,Placed
+116,1,73,Others,63,Others,Science,66,Comm&Mgmt,No,89,Mkt&Fin,60.5,intermediate,     Design Thinking,others,Placed
+117,0,68.2,Central,72.8,Central,Commerce,66.6,Comm&Mgmt,Yes,96,Mkt&Fin,70.85,advance,     Design Thinking,others,Placed
+118,0,77,Others,75,Others,Science,73,Sci&Tech,No,80,Mkt&Fin,67.05,basic,     Design Thinking,others,Placed
+119,0,76,Central,80,Central,Science,78,Sci&Tech,Yes,97,Mkt&HR,70.48,intermediate,     Design Thinking,others,Placed
+120,0,60.8,Central,68.4,Central,Commerce,64.6,Comm&Mgmt,Yes,82.66,Mkt&Fin,64.34,advance,     Design Thinking,others,Placed
+121,0,58,Others,40,Others,Science,59,Comm&Mgmt,No,73,Mkt&HR,58.81,basic,     Design Thinking,others,Not Placed
+122,1,64,Central,67,Others,Science,69.6,Sci&Tech,Yes,55.67,Mkt&HR,71.49,intermediate,     Design Thinking,others,Placed
+123,1,66.5,Central,66.8,Central,Arts,69.3,Comm&Mgmt,Yes,80.4,Mkt&Fin,71,advance,     Design Thinking,others,Placed
+124,0,74,Others,59,Others,Commerce,73,Comm&Mgmt,Yes,60,Mkt&HR,56.7,basic,     Design Thinking,others,Placed
+125,0,67,Central,71,Central,Science,64.33,Others,Yes,64,Mkt&HR,61.26,intermediate,     Design Thinking,others,Placed
+126,1,84,Central,73,Central,Commerce,73,Comm&Mgmt,No,75,Mkt&Fin,73.33,advance,     Design Thinking,others,Placed
+127,1,79,Others,61,Others,Science,75.5,Sci&Tech,Yes,70,Mkt&Fin,68.2,basic,     Design Thinking,others,Placed
+128,1,72,Others,60,Others,Science,69,Comm&Mgmt,No,55.5,Mkt&HR,58.4,intermediate,     Design Thinking,others,Placed
+129,0,80.4,Central,73.4,Central,Science,77.72,Sci&Tech,Yes,81.2,Mkt&HR,76.26,advance,     Design Thinking,others,Placed
+130,0,76.7,Central,89.7,Others,Commerce,66,Comm&Mgmt,Yes,90,Mkt&Fin,68.55,basic,     Design Thinking,others,Placed
+131,0,62,Central,65,Others,Commerce,60,Comm&Mgmt,No,84,Mkt&Fin,64.15,intermediate,     Design Thinking,others,Not Placed
+132,1,74.9,Others,57,Others,Science,62,Others,Yes,80,Mkt&Fin,60.78,advance,     Design Thinking,others,Placed
+133,0,67,Others,68,Others,Commerce,64,Comm&Mgmt,Yes,74.4,Mkt&HR,53.49,basic,     Design Thinking,others,Placed
+134,0,73,Central,64,Others,Commerce,77,Comm&Mgmt,Yes,65,Mkt&HR,60.98,intermediate,     Design Thinking,others,Placed
+135,1,77.44,Central,92,Others,Commerce,72,Comm&Mgmt,Yes,94,Mkt&Fin,67.13,advance,     Design Thinking,others,Placed
+136,1,72,Central,56,Others,Science,69,Comm&Mgmt,No,55.6,Mkt&HR,65.63,basic,     Design Thinking,others,Placed
+137,1,47,Central,59,Central,Arts,64,Comm&Mgmt,No,78,Mkt&Fin,61.58,intermediate,     Design Thinking,others,Not Placed
+138,0,67,Others,63,Central,Commerce,72,Comm&Mgmt,No,56,Mkt&HR,60.41,advance,     Design Thinking,interpersonal skills,Placed
+139,1,82,Others,64,Others,Science,73,Sci&Tech,Yes,96,Mkt&Fin,71.77,basic,     Design Thinking,interpersonal skills,Placed
+140,0,77,Central,70,Central,Commerce,59,Comm&Mgmt,Yes,58,Mkt&Fin,54.43,intermediate,     Design Thinking,interpersonal skills,Placed
+141,0,65,Central,64.8,Others,Commerce,69.5,Comm&Mgmt,Yes,56,Mkt&Fin,56.94,advance,Graphical     ,interpersonal skills,Placed
+142,0,66,Central,64,Central,Science,60,Comm&Mgmt,No,60,Mkt&HR,61.9,basic,Graphical     ,interpersonal skills,Not Placed
+143,0,85,Central,60,Others,Science,73.43,Sci&Tech,Yes,60,Mkt&Fin,61.29,intermediate,Graphical     ,interpersonal skills,Placed
+144,0,77.67,Others,64.89,Others,Commerce,70.67,Comm&Mgmt,No,89,Mkt&Fin,60.39,advance,Graphical     ,interpersonal skills,Placed
+145,0,52,Others,50,Others,Arts,61,Comm&Mgmt,No,60,Mkt&Fin,58.52,basic,Graphical     ,interpersonal skills,Not Placed
+146,0,89.4,Others,65.66,Others,Science,71.25,Sci&Tech,No,72,Mkt&HR,63.23,intermediate,Graphical     ,interpersonal skills,Placed
+147,0,62,Central,63,Others,Science,66,Comm&Mgmt,No,85,Mkt&HR,55.14,advance,Graphical     ,interpersonal skills,Placed
+148,0,70,Central,74,Central,Commerce,65,Comm&Mgmt,No,83,Mkt&Fin,62.28,basic,Graphical     ,interpersonal skills,Placed
+149,1,77,Central,86,Central,Arts,56,Others,No,57,Mkt&Fin,64.08,intermediate,Graphical     ,interpersonal skills,Placed
+150,0,44,Central,58,Central,Arts,55,Comm&Mgmt,Yes,64.25,Mkt&HR,58.54,advance,     Design Thinking,interpersonal skills,Not Placed
+151,0,71,Central,58.66,Central,Science,58,Sci&Tech,Yes,56,Mkt&Fin,61.3,basic,     Design Thinking,interpersonal skills,Placed
+152,0,65,Central,65,Central,Commerce,75,Comm&Mgmt,No,83,Mkt&Fin,58.87,intermediate,     Troubleshooting,interpersonal skills,Placed
+153,1,75.4,Others,60.5,Central,Science,84,Sci&Tech,No,98,Mkt&Fin,65.25,advance,     Troubleshooting,interpersonal skills,Placed
+154,0,49,Others,59,Others,Science,65,Sci&Tech,Yes,86,Mkt&Fin,62.48,basic,     Troubleshooting,interpersonal skills,Placed
+155,0,53,Central,63,Others,Science,60,Comm&Mgmt,Yes,70,Mkt&Fin,53.2,intermediate,     Troubleshooting,interpersonal skills,Placed
+156,0,51.57,Others,74.66,Others,Commerce,59.9,Comm&Mgmt,Yes,56.15,Mkt&HR,65.99,advance,     Troubleshooting,interpersonal skills,Not Placed
+157,0,84.2,Central,69.4,Central,Science,65,Sci&Tech,Yes,80,Mkt&HR,52.72,basic,     Troubleshooting,interpersonal skills,Placed
+158,0,66.5,Central,62.5,Central,Commerce,60.9,Comm&Mgmt,No,93.4,Mkt&Fin,55.03,intermediate,     Design Thinking,interpersonal skills,Placed
+159,0,67,Others,63,Others,Science,64,Sci&Tech,No,60,Mkt&Fin,61.87,advance,     Design Thinking,interpersonal skills,Not Placed
+160,0,52,Central,49,Others,Commerce,58,Comm&Mgmt,No,62,Mkt&HR,60.59,basic,     Design Thinking,interpersonal skills,Not Placed
+161,0,87,Central,74,Central,Science,65,Sci&Tech,Yes,75,Mkt&HR,72.29,intermediate,     Design Thinking,interpersonal skills,Placed
+162,0,55.6,Others,51,Others,Commerce,57.5,Comm&Mgmt,No,57.63,Mkt&HR,62.72,advance,     Design Thinking,interpersonal skills,Not Placed
+163,0,74.2,Central,87.6,Others,Commerce,77.25,Comm&Mgmt,Yes,75.2,Mkt&Fin,66.06,basic,     Design Thinking,interpersonal skills,Placed
+164,0,63,Others,67,Others,Science,64,Sci&Tech,No,75,Mkt&Fin,66.46,intermediate,     Design Thinking,interpersonal skills,Placed
+165,1,67.16,Central,72.5,Central,Commerce,63.35,Comm&Mgmt,No,53.04,Mkt&Fin,65.52,advance,     Design Thinking,interpersonal skills,Placed
+166,1,63.3,Central,78.33,Others,Commerce,74,Comm&Mgmt,No,80,Mkt&Fin,74.56,basic,     Troubleshooting,interpersonal skills,Not Placed
+167,0,62,Others,62,Others,Commerce,60,Comm&Mgmt,Yes,63,Mkt&HR,52.38,intermediate,     Troubleshooting,interpersonal skills,Placed
+168,0,67.9,Others,62,Others,Science,67,Sci&Tech,Yes,58.1,Mkt&Fin,75.71,advance,     Troubleshooting,interpersonal skills,Not Placed
+169,1,48,Central,51,Central,Commerce,58,Comm&Mgmt,Yes,60,Mkt&HR,58.79,basic,     Troubleshooting,interpersonal skills,Not Placed
+170,0,59.96,Others,42.16,Others,Science,61.26,Sci&Tech,No,54.48,Mkt&HR,65.48,intermediate,     Troubleshooting,interpersonal skills,Not Placed
+171,1,63.4,Others,67.2,Others,Commerce,60,Comm&Mgmt,No,58.06,Mkt&HR,69.28,advance,     Troubleshooting,interpersonal skills,Not Placed
+172,0,80,Others,80,Others,Commerce,72,Comm&Mgmt,Yes,63.79,Mkt&Fin,66.04,basic,     Design Thinking,interpersonal skills,Placed
+173,0,73,Others,58,Others,Commerce,56,Comm&Mgmt,No,84,Mkt&HR,52.64,intermediate,     Design Thinking,teamwork,Placed
+174,1,52,Others,52,Others,Science,55,Sci&Tech,No,67,Mkt&HR,59.32,advance,     Design Thinking,teamwork,Not Placed
+175,0,73.24,Others,50.83,Others,Science,64.27,Sci&Tech,Yes,64,Mkt&Fin,66.23,basic,     Design Thinking,teamwork,Placed
+176,0,63,Others,62,Others,Science,65,Sci&Tech,No,87.5,Mkt&HR,60.69,intermediate,     Design Thinking,teamwork,Not Placed
+177,1,59,Central,60,Others,Commerce,56,Comm&Mgmt,No,55,Mkt&HR,57.9,advance,     Design Thinking,teamwork,Placed
+178,1,73,Central,97,Others,Commerce,79,Comm&Mgmt,Yes,89,Mkt&Fin,70.81,basic,     Design Thinking,teamwork,Placed
+179,0,68,Others,56,Others,Science,68,Sci&Tech,No,73,Mkt&HR,68.07,intermediate,     Design Thinking,teamwork,Placed
+180,1,77.8,Central,64,Central,Science,64.2,Sci&Tech,No,75.5,Mkt&HR,72.14,advance,     Design Thinking,teamwork,Not Placed
+181,0,65,Central,71.5,Others,Commerce,62.8,Comm&Mgmt,Yes,57,Mkt&Fin,56.6,basic,     Design Thinking,teamwork,Placed
+182,0,62,Central,60.33,Others,Science,64.21,Sci&Tech,No,63,Mkt&HR,60.02,intermediate,     Design Thinking,teamwork,Not Placed
+183,0,52,Others,65,Others,Arts,57,Others,Yes,75,Mkt&Fin,59.81,advance,     Design Thinking,teamwork,Not Placed
+184,0,65,Central,77,Central,Commerce,69,Comm&Mgmt,No,60,Mkt&HR,61.82,basic,    others,teamwork,Placed
+185,1,56.28,Others,62.83,Others,Commerce,59.79,Comm&Mgmt,No,60,Mkt&HR,57.29,intermediate,    others,teamwork,Not Placed
+186,1,88,Central,72,Central,Science,78,Others,No,82,Mkt&HR,71.43,advance,    others,teamwork,Placed
+187,1,52,Central,64,Central,Commerce,61,Comm&Mgmt,No,55,Mkt&Fin,62.93,basic,    others,teamwork,Not Placed
+188,0,78.5,Central,65.5,Central,Science,67,Sci&Tech,Yes,95,Mkt&Fin,64.86,intermediate,    others,teamwork,Placed
+189,0,61.8,Others,47,Others,Commerce,54.38,Comm&Mgmt,No,57,Mkt&Fin,56.13,advance,    others,teamwork,Not Placed
+190,1,54,Central,77.6,Others,Commerce,69.2,Comm&Mgmt,No,95.65,Mkt&Fin,66.94,basic,    others,teamwork,Not Placed
+191,1,64,Others,70.2,Central,Commerce,61,Comm&Mgmt,No,50,Mkt&Fin,62.5,intermediate,    others,teamwork,Not Placed
+192,0,67,Others,61,Central,Science,72,Comm&Mgmt,No,72,Mkt&Fin,61.01,advance,    others,teamwork,Placed
+193,0,65.2,Central,61.4,Central,Commerce,64.8,Comm&Mgmt,Yes,93.4,Mkt&Fin,57.34,basic,    others,teamwork,Placed
+194,1,60,Central,63,Central,Arts,56,Others,Yes,80,Mkt&HR,56.63,intermediate,    others,teamwork,Placed
+195,0,52,Others,55,Others,Commerce,56.3,Comm&Mgmt,No,59,Mkt&Fin,64.74,advance,    others,teamwork,Not Placed
+196,0,66,Central,76,Central,Commerce,72,Comm&Mgmt,Yes,84,Mkt&HR,58.95,basic,     Design Thinking,teamwork,Placed
+197,0,72,Others,63,Others,Science,77.5,Sci&Tech,Yes,78,Mkt&Fin,54.48,intermediate,     Design Thinking,teamwork,Placed
+198,1,83.96,Others,53,Others,Science,91,Sci&Tech,No,59.32,Mkt&HR,69.71,advance,     Design Thinking,teamwork,Placed
+199,1,67,Central,70,Central,Commerce,65,Others,No,88,Mkt&HR,71.96,basic,     Design Thinking,time management,Not Placed
+200,0,69,Others,65,Others,Commerce,57,Comm&Mgmt,No,73,Mkt&HR,55.8,intermediate,     Design Thinking,time management,Placed
+201,0,69,Others,60,Others,Commerce,65,Comm&Mgmt,No,87.55,Mkt&Fin,52.81,advance,     Design Thinking,time management,Placed
+202,0,54.2,Central,63,Others,Science,58,Comm&Mgmt,No,79,Mkt&HR,58.44,basic,     Design Thinking,time management,Not Placed
+203,0,70,Central,63,Central,Science,66,Sci&Tech,No,61.28,Mkt&HR,60.11,intermediate,     Design Thinking,time management,Placed
+204,0,55.68,Others,61.33,Others,Commerce,56.87,Comm&Mgmt,No,66,Mkt&HR,58.3,advance,     Design Thinking,time management,Placed
+205,1,74,Others,73,Others,Commerce,73,Comm&Mgmt,Yes,80,Mkt&Fin,67.69,basic,     Design Thinking,time management,Placed
+206,0,61,Others,62,Others,Commerce,65,Comm&Mgmt,No,62,Mkt&Fin,56.81,intermediate,     other,time management,Placed
+207,0,41,Central,42,Central,Science,60,Comm&Mgmt,No,97,Mkt&Fin,53.39,advance,     other,time management,Not Placed
+208,0,83.33,Central,78,Others,Commerce,61,Comm&Mgmt,Yes,88.56,Mkt&Fin,71.55,basic,     other,time management,Placed
+209,1,43,Central,60,Others,Science,65,Comm&Mgmt,No,92.66,Mkt&HR,62.92,intermediate,     other,time management,Not Placed
+210,0,62,Central,72,Central,Commerce,65,Comm&Mgmt,No,67,Mkt&Fin,56.49,advance,     other,time management,Placed
+211,0,80.6,Others,82,Others,Commerce,77.6,Comm&Mgmt,No,91,Mkt&Fin,74.49,basic,     Design Thinking,time management,Placed
+212,0,58,Others,60,Others,Science,72,Sci&Tech,No,74,Mkt&Fin,53.62,intermediate,     Design Thinking,time management,Placed
+213,0,67,Others,67,Others,Commerce,73,Comm&Mgmt,Yes,59,Mkt&Fin,69.72,advance,     Design Thinking,time management,Placed
+214,1,74,Others,66,Others,Commerce,58,Comm&Mgmt,No,70,Mkt&HR,60.23,basic,     Design Thinking,time management,Placed
+215,0,62,Central,58,Others,Science,53,Comm&Mgmt,No,89,Mkt&HR,60.22,intermediate,     Design Thinking,time management,Not Placed

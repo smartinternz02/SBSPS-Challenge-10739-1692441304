@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Navigation and Body Content</title>
+    <!-- Include Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style type="text/css">
+    body{
+        height: 400px;
+        padding: 0px;
+
+
+        /*background-color: #22A39F; */
+        background-image: url('/static/image.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+      
+       
+    }
+    .container{
+        padding: 30px;
+        /*background-color: rgb(243, 239, 224,0.5);*/
+        background-color: rgba(18, 208, 234, 0.5);
+        align-items:center;
+    }
+   
+   
+</style>
+</head>
+<body >
+    <!-- Bootstrap Navigation Bar -->
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark justify-content-center">
+         <a class="navbar-brand" href="#">My Website</a> 
+            </nav>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-center">
+        <div class="navbar-collapse justify-content-center" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                </li>
+                <li class="nav-item">
+                    <a class="a" href="https://efalondon.org/research/?gad=1&gclid=CjwKCAjw3dCnBhBCEiwAVvLcu2pNjIftFRCXdbbVxGgvAP6xx7eZT0zUub94iyOTP-9RIL9TvBE_fxoCQqYQAvD_BwE">Article Reading</a>
+                    <a class="b" href="https://www.naukri.com/resume-maker?fftid=resumemaker2807&utm_campaign=Resume_maker&utm_source=google&gclid=CjwKCAjw3dCnBhBCEiwAVvLcu0NqfPBvj7haJERL5xQ4R0JS3PRet6fZxZYeLlHgZ45w5K4U-HOALxoCmm4QAvD_BwE">Create Resume</a>
+                    <a class=""  href="https://www.glassdoor.co.in/Salaries/index.htm">Search Salaries</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Centered Body Content -->
+    <div class="container text-center ">
+        <h1>Welcome to Our Website</h1>
+       
+        <img src="">
+         <h4 class="mb-3">Student will be </h4>
+                        <span class="price display-4 mb-0" style="color: #222222;font-weight: bold;">{{ prediction_text }}</span>
+                        <br>
+                        <a href="{{url_for('Home')}}">
+                        <button type="button" class="btn btn-primary  rounded-bottom">Return</button>
+                        </a>
+    </div>
+    <div class="c bg-dark">
+
+    </div>
+    <!-- <img src="im1.png";> -->
+    <!-- <iframe src="abc.gif"></iframe> -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

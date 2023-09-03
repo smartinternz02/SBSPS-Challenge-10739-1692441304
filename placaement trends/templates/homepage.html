@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campus Placement Trends</title>
+    <style>
+        /* Reset some default styles */
+        body, h1, p {
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: Arial, sans-serif;
+           background-image:url("/static/Placement.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .navbar {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            height: 60px;
+             background-color:rgb(43, 182, 216);
+        }
+        .navbar a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #fff;
+            font-weight: bold;
+        }
+        .navbar a:hover {
+            color: #ff9900;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            /* background-color: #fff; */
+            /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 8px; */
+            text-align: center;
+        }
+        .container h1 {
+            margin-bottom: 20px;
+            animation: rainbow 2s infinite;
+            /* Chrome, Safari, Opera */
+            -webkit-animation: rainbow 2s infinite; 
+            /* Internet Explorer */
+            -ms-animation: rainbow 2s infinite;
+        }
+        .container p {
+            color: #666;
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+
+        @keyframes rainbow {
+            0% { color: red; }
+            14% { color: orange; }
+            28% { color: yellow; }
+            42% { color: green; }
+            57% { color: blue; }
+            71% { color: indigo; }
+            85% { color: violet; }
+            100% { color: red; }
+        }
+
+        /* Chrome, Safari, Opera */
+        @-webkit-keyframes rainbow {
+            0% { color: red; }
+            14% { color: orange; }
+            28% { color: yellow; }
+            42% { color: green; }
+            57% { color: blue; }
+            71% { color: indigo; }
+            85% { color: violet; }
+            100% { color: red; }
+        }
+
+        /* Internet Explorer */
+        @-ms-keyframes rainbow {
+            0% { color: red; }
+            14% { color: orange; }
+            28% { color: yellow; }
+            42% { color: green; }
+            57% { color: blue; }
+            71% { color: indigo; }
+            85% { color: violet; }
+            100% { color: red; }
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="/form">Predict</a>
+        <a href="#">About Us</a>
+        <a href="#">User Account</a>
+        <a href="#">Sign In</a>
+        <a href="#">Sign Up</a>
+    </div>
+    <div class="container">
+        <h1>Welcome to Campus Placement Trends</h1>
+        <p>Stay ahead with insights into the latest campus placement trends.</p>
+        <!-- Add more content as needed -->
+    </div>
+</body>
+</html>
